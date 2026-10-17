@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #1f2b1a;
+}
+
+/* inside an iframe (e.g. the portfolio) the page around the game is see-through */
+body.embedded {
+  background: transparent;
+}
+
+canvas {
+  display: block;
+  /* as big as possible, but never wider than 560px and never taller than the screen */
+  width: min(100%, 560px, calc(100vh * 560 / 620));
+  height: auto;
+  border-radius: 16px;
+  touch-action: none; /* swiping on the game steers the snake instead of scrolling */
+}
