@@ -7,9 +7,9 @@ I first wrote it in **Python** with **pygame**, then rewrote it in **JavaScript*
 **▶ Play it here:** https://20kita.github.io/snake-python/
 
 <p align="center">
-  <img src="screenshots/menu.png" width="30%" alt="Start menu">
-  <img src="screenshots/gameplay.png" width="30%" alt="Gameplay">
-  <img src="screenshots/game-over.png" width="30%" alt="Game over screen with a new high score">
+  <img src="menu.png" width="30%" alt="Start menu">
+  <img src="gameplay.png" width="30%" alt="Gameplay">
+  <img src="game-over.png" width="30%" alt="Game over screen with a new high score">
 </p>
 
 ---
@@ -24,7 +24,6 @@ I first wrote it in **Python** with **pygame**, then rewrote it in **JavaScript*
 6. [How it works](#how-it-works)
 7. [Why I rewrote it in JavaScript](#why-i-rewrote-it-in-javascript)
 8. [What I learned](#what-i-learned)
-9. [Ideas for the future](#ideas-for-the-future)
 
 ---
 
@@ -186,13 +185,6 @@ Browsers run JavaScript natively, so the JavaScript version starts **instantly**
 - **Rewriting a project in another language**, and choosing the right technology for where the project will run
 - Adding **touch controls** and making a game **responsive**
 - Publishing a project on **GitHub Pages**
-
-## Ideas for the future
-
-- The snake speeds up with every apple
-- Wrap-around mode (going through walls)
-- Sound effects
-- A bonus golden apple
 
 ---
 
