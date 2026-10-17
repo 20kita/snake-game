@@ -4,7 +4,7 @@ A classic Snake game with a start menu, three difficulty levels, pause and a sav
 
 I first wrote it in **Python** with **pygame**, then rewrote it in **JavaScript** (HTML Canvas) so it can be played instantly in the browser. Both versions have the same logic and look, and all the graphics are drawn in code, with no image files.
 
-**▶ Play it here:** https://20kita.github.io/snake-python/
+**▶ Play it here:** https://20kita.github.io/snake-game/
 
 <p align="center">
   <img src="screenshots/menu.png" width="30%" alt="Start menu">
