@@ -7,9 +7,9 @@ I first wrote it in **Python** with **pygame**, then rewrote it in **JavaScript*
 **▶ Play it here:** https://20kita.github.io/snake-python/
 
 <p align="center">
-  <img src="menu.png" width="30%" alt="Start menu">
-  <img src="gameplay.png" width="30%" alt="Gameplay">
-  <img src="game-over.png" width="30%" alt="Game over screen with a new high score">
+  <img src="screenshots/menu.png" width="30%" alt="Start menu">
+  <img src="screenshots/gameplay.png" width="30%" alt="Gameplay">
+  <img src="screenshots/game-over.png" width="30%" alt="Game over screen with a new high score">
 </p>
 
 ---
